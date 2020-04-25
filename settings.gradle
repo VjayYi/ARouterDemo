@@ -1,0 +1,6 @@
+rootProject.name='AssemblyWithoutApt'
+include ':app'
+include ':arount'
+include ':annotation'
+include ':process'
+include ':login'
